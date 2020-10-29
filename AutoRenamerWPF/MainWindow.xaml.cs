@@ -1,7 +1,7 @@
 ﻿using System.Collections.ObjectModel;
 using System.Windows;
 
-namespace AutoRenamerWPF
+namespace AutoRenamer
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

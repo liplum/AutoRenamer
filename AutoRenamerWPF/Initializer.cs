@@ -9,7 +9,7 @@ using System.Linq;
 using System.Reflection;
 using System.Threading;
 
-namespace AutoRenamerWPF
+namespace AutoRenamer
 {
     public static class Initializer
     {

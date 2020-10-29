@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace AutoRenamerWPF
+namespace AutoRenamer
 {
     /// <summary>
     /// Interaction logic for App.xaml

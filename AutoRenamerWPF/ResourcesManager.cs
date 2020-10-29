@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace AutoRenamerWPF
+namespace AutoRenamer
 {
     public class ResourcesManager : IResourcesManager
     {

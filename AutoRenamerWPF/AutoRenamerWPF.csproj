@@ -4,9 +4,11 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
-    <StartupObject>AutoRenamerWPF.App</StartupObject>
+    <StartupObject>AutoRenamer.App</StartupObject>
     <Authors>Liplum</Authors>
     <Product>AutoRenamerWPF</Product>
+    <AssemblyName>AutoRenamer</AssemblyName>
+    <RootNamespace>AutoRenamer</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
